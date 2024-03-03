@@ -67,7 +67,7 @@ const App = () => {
       (localStorage.getItem("darkTheme") === "true" ? true : false) | false,
     pi: (localStorage.getItem("pi") === "true" ? true : false) | false,
     disableDirective: false,
-    preview: true,
+    preview: false,
     //CHANGE TO TRUE
     hideSettings: true,
     hideCaption: false,
