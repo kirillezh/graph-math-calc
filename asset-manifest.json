@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.21fd540d.css",
-    "main.js": "/static/js/main.ea1fed59.js",
-    "static/js/488.a3ac2b94.chunk.js": "/static/js/488.a3ac2b94.chunk.js",
-    "index.html": "/index.html",
-    "main.21fd540d.css.map": "/static/css/main.21fd540d.css.map",
-    "main.ea1fed59.js.map": "/static/js/main.ea1fed59.js.map",
-    "488.a3ac2b94.chunk.js.map": "/static/js/488.a3ac2b94.chunk.js.map"
+    "main.css": "/graph-math-calc/static/css/main.21fd540d.css",
+    "main.js": "/graph-math-calc/static/js/main.ea8c3fd9.js",
+    "static/js/488.a3ac2b94.chunk.js": "/graph-math-calc/static/js/488.a3ac2b94.chunk.js",
+    "index.html": "/graph-math-calc/index.html",
+    "main.21fd540d.css.map": "/graph-math-calc/static/css/main.21fd540d.css.map",
+    "main.ea8c3fd9.js.map": "/graph-math-calc/static/js/main.ea8c3fd9.js.map",
+    "488.a3ac2b94.chunk.js.map": "/graph-math-calc/static/js/488.a3ac2b94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21fd540d.css",
-    "static/js/main.ea1fed59.js"
+    "static/js/main.ea8c3fd9.js"
   ]
 }
