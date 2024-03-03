@@ -1,5 +1,6 @@
 {
   "name": "graph-math-calc",
+  "homepage": "https://kirillezh.github.io/graph-math-calc/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
