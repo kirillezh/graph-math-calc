@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/graph-math-calc/static/css/main.21fd540d.css",
-    "main.js": "/graph-math-calc/static/js/main.ea8c3fd9.js",
+    "main.js": "/graph-math-calc/static/js/main.aa22f07a.js",
     "static/js/488.a3ac2b94.chunk.js": "/graph-math-calc/static/js/488.a3ac2b94.chunk.js",
     "index.html": "/graph-math-calc/index.html",
     "main.21fd540d.css.map": "/graph-math-calc/static/css/main.21fd540d.css.map",
-    "main.ea8c3fd9.js.map": "/graph-math-calc/static/js/main.ea8c3fd9.js.map",
+    "main.aa22f07a.js.map": "/graph-math-calc/static/js/main.aa22f07a.js.map",
     "488.a3ac2b94.chunk.js.map": "/graph-math-calc/static/js/488.a3ac2b94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21fd540d.css",
-    "static/js/main.ea8c3fd9.js"
+    "static/js/main.aa22f07a.js"
   ]
 }
